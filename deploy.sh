@@ -11,4 +11,4 @@ else
 fi
 
 # Push the contents of the ./dist folder to the gh-pages branch for deployment
-git subtree push --prefix ./dist origin gh-pages
+git subtree push --prefix dist origin gh-pages
