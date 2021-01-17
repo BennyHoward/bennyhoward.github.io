@@ -18,7 +18,7 @@ fi
 # Check if on current branch
 CURRENT_BRANCH=$(git branch --show-current)
 if [[ $CURRENT_BRANCH != 'main' ]]; then
-  echo "Error: Cannot deploy from branch '$CURRENT_BRANCH'.  Can ONLY deploy from 'main'."
+  echo "Error: Cannot deploy from branch '$CURRENT_BRANCH'.  Can ONLY deploy recent commits from 'main'."
   exit 1
 fi
 

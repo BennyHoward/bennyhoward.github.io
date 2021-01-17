@@ -1,6 +1,6 @@
 # Github Page for BennyHoward
 
-Source code for Github Pages [BennyHoward.github.io](https://BennyHoward.github.io).  
+Source code for Github Pages [bennyhoward.github.io](https://bennyhoward.github.io).  
 
 ## Author
 
