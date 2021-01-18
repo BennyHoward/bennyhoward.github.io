@@ -15,6 +15,10 @@ Source code for Github Pages [BennyHoward.github.io](https://BennyHoward.github.
 ![Creative Commons License](./by-sa.svg)  
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.  
 
+## How to Setup repo for Github Pages and Prepare it for a Domain Name
+
+### 1. 
+
 ## Deploying
 
 The contents of the dist folder is what gets deployed.  
