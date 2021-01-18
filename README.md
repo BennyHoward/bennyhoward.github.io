@@ -33,3 +33,12 @@ To deploy run the following command:
 ```sh
 sh ./deploy.sh
 ```
+
+## Usage
+
+## How to Setup repo for Github Pages and Prepare it for a Domain Name
+
+Github Pages is a free service offered by Github to host static sites from a repository.  
+When you create your static site, it's hosted on 
+
+### 1. Create a Github Repository that Starts with you user name followed by 
